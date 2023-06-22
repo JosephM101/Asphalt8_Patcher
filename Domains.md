@@ -6,3 +6,4 @@
 - `eur-iris.gameloft.com` -> 208.71.185.241
 - `eur-hermes.gameloft.com` -> `eur-fed.gameloft.com` -> 208.71.185.241
 - `eve.gameloft.com` -> 208.71.185.246
+- `a314.gameloft.com` -> `ingameads.gameloft.com` -> 208.71.185.246
