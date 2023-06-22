@@ -8,5 +8,5 @@
 - Delete the following folder(s):
   * `AppxMetadata/`
 - Edit AppxManifest.xml
-  * At XML path *"Package/Identity"*, change attribute `Name` to `GAMELOFT.Asphalt8Airborne`
+  * At XML path *"Package/Identity"*, change value of attribute `Name` from `"GAMELOFTSA.Asphalt8Airborne"` to `"GAMELOFT.Asphalt8Airborne"`
   * At XML path *"Package/Applications/Application[0]"*, remove entry `"ApplicationContentUriRules"`
