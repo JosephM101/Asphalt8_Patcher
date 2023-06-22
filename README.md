@@ -12,7 +12,7 @@ This project is going to take quite a bit of work, but since I will be working w
 - Create a tool that allows for backing up & restoring save data for the game
 - (Possibly) allow local multiplayer
 
-The first two goals ideally require figuring out what server the game is using to check, and either blocking or reverse-engineering it (hopefully not the latter). Otherwise, on Windows, it's as simple as blocking inbound connections for the game (NOT outbound connections; the game will detect this and ban you). *Again, I would seriously appreciate any help with figuring this out since I have no prior reverse-engineering experience. I tried both Wireshark and TCPView, but couldn't narrow it down.*
+The first two goals ideally require figuring out what server the game is using to check, and either blocking or reverse-engineering it (hopefully not the latter). Otherwise, on Windows, it's as simple as blocking inbound connections for the game (NOT outbound connections; the game will detect this and ban you). *Again, I would seriously appreciate any help with figuring this out since I have no prior reverse-engineering experience. I have used both Wireshark and TCPView, but not like this, and when I tried, I couldn't figure out what the game was doing.*
 
 ## Why this project?
 I remember when I first played Asphalt 8 back in 2013/2014 on my first laptop: a Gateway NE56R41u running Windows 8. I loved the game's concept, and I thought the different modes (Infection, Elimination, etc.) were really cool ideas for the 9-year-old me. Going back to play it now, and it's an ad-ridden, pay-to-play mess; not the Asphalt 8 that I remember.
