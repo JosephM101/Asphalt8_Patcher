@@ -9,3 +9,4 @@
 - `a314.gameloft.com` -> `ingameads.gameloft.com` -> 208.71.185.246
 - `iap.gameloft.com` -> 208.71.186.86
 - `gdid.datalake.gameloft.com` -> 52.54.189.240
+- `vgold-eur.gameloft.com` -> 208.71.185.241
