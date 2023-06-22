@@ -9,4 +9,4 @@
   * `AppxMetadata/`
 - Edit AppxManifest.xml
   * At XML path *"Package/Identity"*, change attribute `Name` to `GAMELOFT.Asphalt8Airborne`
-  * In object `ApplicationContentUriRules` at XML path *"Package/Applications/Application[0]"*, remove all `Rule` child objects
+  * At XML path *"Package/Applications/Application[0]"*, remove all `Rule` child objects from object `ApplicationContentUriRules`
