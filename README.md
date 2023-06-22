@@ -7,6 +7,7 @@ This project is focused on older versions of Asphalt 8 (pre-2018, for now). The 
 
 ## Goals for this project
 This project is going to take quite a bit of work, but since I will be working with much older versions of the game, I'm hoping it will be a bit simpler. Here are my primary goals for this project:
+- Prevent Microsoft Store from auto-updating app (possible package ID change?)
 - Keep the game from realizing there are updates
 - Disable ads
 - Create a tool that allows for backing up & restoring save data for the game
