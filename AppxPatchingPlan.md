@@ -10,3 +10,4 @@
 - Edit AppxManifest.xml
   * At XML element *"Package/Identity"*, change attribute `Name` from `GAMELOFTSA.Asphalt8Airborne` to `GAMELOFT.Asphalt8Airborne`
   * At XML path *"Package/Applications/Application[Id]" where Id="App"*, delete element `ApplicationContentUriRules`
+  * [CONSIDERATION] Change all occurences of `ms-resource:AppName` to `"Asphalt 8: Airborne Classic"`
