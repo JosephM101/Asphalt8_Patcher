@@ -19,7 +19,7 @@ I remember when I first played Asphalt 8 back in 2013/2014 on my first laptop: a
 
 I created this project because I can't imagine I'm the only one who feels like this. Having just graduated from highschool at the time of writing, I'm on a "huge nostalgia high", so I decided to try and create a patcher to make older. playable versions of Asphalt 8 work fully offline, possibly with multiplayer capability.
 
-It's not just the nostalgia. I have benefitted from the game modding community in the past (Sonic Runners Revival and OpenRCT2 come to mind), and I want to try and contribute as a way of saying "thanks", and further stretching my appreciation for the people that dedicate their lives to breathing a second life into games. Sure, Asphalt 8 is still around, but I want to make it what it once was. For me, this project is quite experimental and educational, but I hope to get much more out of it.
+It's not just the nostalgia. I have benefitted from the game modding community in the past (Sonic Runners Revival and OpenRCT2 come to mind), and I want to try and contribute as a way of saying "thanks", and further stretching my appreciation for the people that dedicate their lives to breathing a second life into older games. Sure, Asphalt 8 is still around, but I want to make it what it once was. For me, this project is quite experimental and educational, but I hope to get much more out of it.
 *Also, MattKC's Lego Island patcher was a bit of an inspiration.*
 
 If you would like to help out with dissecting the game's inner workings and writing patches, please don't hesitate to reach out; I'd appreciate any and all help.
