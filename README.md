@@ -1,5 +1,5 @@
 # Asphalt8_Patcher
-Tools to make Asphalt 8 on PC playable again!
+Tools to make Asphalt 8 again!
 This project is focused on older versions of Asphalt 8 (version 4 and older). The goal is to come up with a patch that circumvents cheating checks in later versions of the game while preventing it from checking for updates or retrieving ads. Essentially, make the game "offline" while still allowing some features like local multiplayer to function properly.
 
 *Please note:* For this project, I will be primarily focusing on the Windows ports of the game which run on Windows 8 and later. I would really appreciate help for fixing older versions of the game on other platforms (Android, iOS(?), Windows Phone(?)) once I've got track on the PC fixes.
